@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 feature2 branch create a file1.txt : 1.1
-
-=======
-creating file1.txt file in feature1 branch
->>>>>>> a55b5c4... feature1 branch added file1.txt
-=======
 feature1 branch create a file1.txt : 1.1
 
->>>>>>> 36ad3a3... feature1 branch added file1.txt file
 
