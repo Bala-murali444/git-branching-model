@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 feature2 branch create a file1.txt : 1.1
+=======
+>>>>>>> 36ad3a3d0132cb53fbd3525f986230ecd7489462
 feature1 branch create a file1.txt : 1.1
 
 
